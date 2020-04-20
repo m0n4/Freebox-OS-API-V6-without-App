@@ -1,9 +1,9 @@
 ### Freebox OS API V6 without App
-Allow API request to Freebox OS without authorization of application.
+Allow API request to Freebox OS without authorization of application on the Freebox front panel (no app_token).
 > **Web App password is required.**
 
 ### Requirement
-Python ≥ 2.7  
+Python ≥ 2.7 (python 3 compatible)  
 Linux : PyV8
 
 ### Output
