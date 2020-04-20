@@ -3,7 +3,7 @@ Allow API request to Freebox OS without authorization of application.
 > **Web App password is required.**
 
 ### Requirement
-Python ≥ 2.7
+Python ≥ 2.7  
 Linux : PyV8
 
 ### Output
